@@ -81,3 +81,5 @@
 - [Vue 심화문법](23-05/230501.md)
 - [Vue CLI](23-05/230502.md)
 - [Vue Data Management](23-05/230503.md)
+- [Vue State Management](23-05/230504.md)
+- [Vuex advanced](23-05/230508.md)
