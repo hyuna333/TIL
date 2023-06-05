@@ -83,3 +83,8 @@
 - [Vue Data Management](23-05/230503.md)
 - [Vue State Management](23-05/230504.md)
 - [Vuex advanced](23-05/230508.md)
+- [Vue Router](23-05/230509.md)
+- [Vue Guard](23-05/230510.md)
+- [Vue with DRF](23-05/230511.md)
+- [Vue with Auth 1](23-05/230515.md)
+- [Vue with Auth 2](23-05/230516.md)
